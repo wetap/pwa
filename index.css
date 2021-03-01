@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Sans-serif;
+}
+header, footer {
+  width: 100vw;
+  height: 60px;
+  position: absolute;
+  z-index: 3;
+  background: #143469;
+  color: #fff;
+}
+header {
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wetap-logo {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+  z-index: 3;
+}
+footer {
+  bottom: 0;
+}
+#map {
+  position: absolute;
+  z-index: 1;
+  top: 60px;
+  bottom: 0;
+  width: 100%;
+}
+
+.marker {
+  background-image: url('img/wetap-map.svg');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.fountain-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.fountain-attributes {
+  font-size: 1.1rem;
+  margin-left: 20px;
+}
+.fountain-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+.fountain-details .label {
+  font-weight: bold;
+}
+
+.grey-out {
+  filter: grayscale(100%);
+  opacity: 0.5;
+}
+.affirmative {
+  margin-left: 5px;
+  color: rgb(33, 184, 33);
+}

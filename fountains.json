@@ -1,0 +1,562 @@
+[
+  {
+    "id": 128808,
+    "created_at": "2019-10-20T05:07:52.620Z",
+    "updated_at": "2019-10-20T05:07:52.620Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2485588920473,
+        34.05715496748132
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128808.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/808/thumb/7b438a6d-c179-494c-8ce3-711fd93a4494.jpg?1571548069"
+  },
+  {
+    "id": 128650,
+    "created_at": "2019-07-15T19:05:06.110Z",
+    "updated_at": "2019-07-15T19:05:06.110Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.24622500073,
+        34.05661850674246
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128650.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/650/thumb/3936f091-1e23-49fc-91c1-d8eb38ffee85.jpg?1563217501"
+  },
+  {
+    "id": 128599,
+    "created_at": "2019-05-24T20:58:55.229Z",
+    "updated_at": "2019-05-24T20:58:55.229Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2332656067966,
+        34.05563231095118
+      ]
+    },
+    "user_id": 1254,
+    "user_name": "robmillernow@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128599.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/599/thumb/8db3010a-3a9e-4348-9972-8a96273e026d.jpg?1558731531"
+  },
+  {
+    "id": 128580,
+    "created_at": "2019-04-11T22:10:58.366Z",
+    "updated_at": "2019-04-11T22:10:58.366Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2506307774827,
+        34.05172318346201
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128580.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/580/thumb/cd72399c-1cc5-4e3d-8ea9-556fb66cbd40.jpg?1555020654"
+  },
+  {
+    "id": 128579,
+    "created_at": "2019-04-11T21:40:50.893Z",
+    "updated_at": "2019-04-11T21:40:50.893Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2470274345188,
+        34.05620659704698
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128579.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/579/thumb/a19fed2a-c4c7-44ca-a87f-1cb6b7547d8a.jpg?1555018845"
+  },
+  {
+    "id": 128578,
+    "created_at": "2019-04-11T19:33:20.261Z",
+    "updated_at": "2019-04-11T19:33:20.261Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2332234458236,
+        34.06668439510657
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128578.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/578/thumb/93158f7c-5917-43c7-84dc-eb5dd36faa61.jpg?1555011193"
+  },
+  {
+    "id": 128562,
+    "created_at": "2019-03-27T23:21:40.488Z",
+    "updated_at": "2019-03-27T23:21:40.488Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2486629952846,
+        34.04802259060931
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128562.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/562/thumb/46c75f1c-2c7b-46d4-bb51-125bfcdc0885.jpg?1553728891"
+  },
+  {
+    "id": 128485,
+    "created_at": "2019-02-16T22:16:50.427Z",
+    "updated_at": "2019-02-16T22:16:50.427Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2367719245313,
+        34.05581646136386
+      ]
+    },
+    "user_id": 1254,
+    "user_name": "robmillernow@gmail.com",
+    "working": false,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/128485.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/128/485/thumb/45704446-3cd6-44d5-84f2-5f308cbc3f5d.jpg?1550355405"
+  },
+  {
+    "id": 127913,
+    "created_at": "2017-12-17T21:34:48.962Z",
+    "updated_at": "2017-12-17T21:34:48.962Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2608681943349,
+        34.0487549707091
+      ]
+    },
+    "user_id": 1254,
+    "user_name": "robmillernow@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127913.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/913/thumb/685c7b1a-3b66-4b42-9a91-1d85a2ce585a.jpg?1513546483"
+  },
+  {
+    "id": 127566,
+    "created_at": "2017-06-08T01:21:35.072Z",
+    "updated_at": "2017-06-08T01:21:35.072Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.244934808573,
+        34.05553629625035
+      ]
+    },
+    "user_id": 1323,
+    "user_name": "jpch1rocks@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "low",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127566.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/566/thumb/1a485a64-6d88-4bab-a2b9-ad1adf655627.jpg?1496884889"
+  },
+  {
+    "id": 127515,
+    "created_at": "2017-05-09T23:14:42.429Z",
+    "updated_at": "2017-05-09T23:14:42.429Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2430392213139,
+        34.05334044676739
+      ]
+    },
+    "user_id": 1260,
+    "user_name": "alika@brideau.net",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127515.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/515/thumb/d224a44d-6e26-43a9-a6c9-9314b9db19fc.jpg?1494371677"
+  },
+  {
+    "id": 127337,
+    "created_at": "2016-08-21T20:14:51.341Z",
+    "updated_at": "2016-08-21T20:14:51.341Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2345740213092,
+        34.0463403882421
+      ]
+    },
+    "user_id": 927,
+    "user_name": "lisakaasboyle@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127337.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/337/thumb/f989c01b-ddfd-4eb5-8370-2add29dc8f31.jpg?1471810485"
+  },
+  {
+    "id": 127266,
+    "created_at": "2016-07-05T18:05:20.428Z",
+    "updated_at": "2016-07-05T18:05:20.428Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2487007138489,
+        34.05743429440452
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127266.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/266/thumb/76a1ac2a-9a5d-4c85-bd03-5cc659ecc3e0.jpg?1467741917"
+  },
+  {
+    "id": 127240,
+    "created_at": "2016-06-22T19:28:58.171Z",
+    "updated_at": "2016-06-22T19:28:58.171Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2342733630149,
+        34.04285757805597
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127240.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/240/thumb/53247146-dc90-4b79-910c-b88009a3715d.jpg?1466623734"
+  },
+  {
+    "id": 127197,
+    "created_at": "2016-05-05T17:52:28.972Z",
+    "updated_at": "2016-05-05T17:52:28.972Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2416333445518,
+        34.0537998173703
+      ]
+    },
+    "user_id": 756,
+    "user_name": "arthurmellinger@verizon.net",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127197.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/197/thumb/979b2a36-882e-4aa8-93b4-e91803515df2.jpg?1462470746"
+  },
+  {
+    "id": 127196,
+    "created_at": "2016-05-05T17:47:26.640Z",
+    "updated_at": "2016-05-05T17:47:26.640Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2418777608483,
+        34.05369936026079
+      ]
+    },
+    "user_id": 755,
+    "user_name": "popcorn2007@sbcglobal.net",
+    "working": true,
+    "filling_station": true,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127196.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/196/thumb/3ea4332a-6ea1-41a2-9472-4634f3154b11.jpg?1462470444"
+  },
+  {
+    "id": 127129,
+    "created_at": "2015-11-19T02:00:39.405Z",
+    "updated_at": "2015-11-19T02:00:39.405Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2549877357261,
+        34.05096601959185
+      ]
+    },
+    "user_id": 50,
+    "user_name": "michael.john.kirk@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127129.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/129/thumb/64183f31-eb3c-431d-8dc2-88b46432ee8d.jpg?1447898436"
+  },
+  {
+    "id": 127105,
+    "created_at": "2015-10-07T19:34:50.772Z",
+    "updated_at": "2015-10-07T19:34:50.772Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2384244619418,
+        34.05724804042726
+      ]
+    },
+    "user_id": 2,
+    "user_name": "change@me.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/127105.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/127/105/thumb/73914fed-811a-4a84-b9f5-bec92c5d4b3c.jpg?1444246481"
+  },
+  {
+    "id": 73948,
+    "created_at": "2015-07-10T20:00:56.856Z",
+    "updated_at": "2015-07-10T20:00:56.856Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.23861,
+        34.049297
+      ]
+    },
+    "user_id": null,
+    "user_name": "unknown",
+    "working": null,
+    "filling_station": null,
+    "dog_bowl": null,
+    "flow": null,
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/73948.json",
+    "image_url": null
+  },
+  {
+    "id": 35720,
+    "created_at": "2015-06-25T22:39:07.832Z",
+    "updated_at": "2015-06-25T22:39:07.832Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2491139416753,
+        34.05759526885493
+      ]
+    },
+    "user_id": 146,
+    "user_name": "andrewjdouglas@yahoo.com",
+    "working": true,
+    "filling_station": true,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35720.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/720/thumb/de49847e-57c9-4058-a6de-ed3bc21d7edd.jpg?1435271942"
+  },
+  {
+    "id": 35702,
+    "created_at": "2015-05-12T21:43:21.704Z",
+    "updated_at": "2015-05-12T21:43:21.704Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2697345131247,
+        34.03237567286383
+      ]
+    },
+    "user_id": 146,
+    "user_name": "andrewjdouglas@yahoo.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35702.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/702/thumb/25ddf536-4373-49db-b61b-57683aab1493.jpg?1431466997"
+  },
+  {
+    "id": 35700,
+    "created_at": "2015-05-11T13:26:23.964Z",
+    "updated_at": "2015-05-11T13:26:23.964Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2364236695304,
+        34.05458615660966
+      ]
+    },
+    "user_id": 144,
+    "user_name": "ssims@mwdh2o.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35700.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/700/thumb/07935e6c-cc5d-4813-96b7-f625600d0096.jpg?1431350780"
+  },
+  {
+    "id": 35698,
+    "created_at": "2015-05-09T02:54:10.802Z",
+    "updated_at": "2015-05-09T02:54:10.802Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.254184909275,
+        34.04016288000535
+      ]
+    },
+    "user_id": 146,
+    "user_name": "andrewjdouglas@yahoo.com",
+    "working": false,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "low",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35698.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/698/thumb/093778c4-fc64-4cad-950f-37084da1277b.jpg?1431140045"
+  },
+  {
+    "id": 35692,
+    "created_at": "2015-05-02T21:20:00.923Z",
+    "updated_at": "2015-05-02T21:20:00.923Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2565175091086,
+        34.05074033889365
+      ]
+    },
+    "user_id": 122,
+    "user_name": "emtessler@gmail.com",
+    "working": false,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "low",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35692.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/692/thumb/6cff9a66-346f-4a47-9cc2-1d42e1288903.jpg?1430601597"
+  },
+  {
+    "id": 35691,
+    "created_at": "2015-05-02T21:13:32.441Z",
+    "updated_at": "2015-05-02T21:13:32.441Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2543405511591,
+        34.04868513251752
+      ]
+    },
+    "user_id": 122,
+    "user_name": "emtessler@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35691.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/691/thumb/b1cde079-bb37-40ff-a8db-308db446a5b4.jpg?1430601208"
+  },
+  {
+    "id": 35690,
+    "created_at": "2015-05-02T19:02:31.029Z",
+    "updated_at": "2015-05-02T19:02:31.029Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.238943424186,
+        34.05670993033243
+      ]
+    },
+    "user_id": 122,
+    "user_name": "emtessler@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "low",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35690.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/690/thumb/45df63cb-1669-4720-bd87-f21abec04f13.jpg?1430593347"
+  },
+  {
+    "id": 35689,
+    "created_at": "2015-05-02T18:42:15.436Z",
+    "updated_at": "2015-05-02T18:42:15.436Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2435708214699,
+        34.05452137350482
+      ]
+    },
+    "user_id": 122,
+    "user_name": "emtessler@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "low",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35689.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/689/thumb/5256e08e-d502-4990-989b-0939baa8dd63.jpg?1430592132"
+  },
+  {
+    "id": 35641,
+    "created_at": "2015-01-14T19:44:16.091Z",
+    "updated_at": "2015-01-14T19:44:16.091Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2511690166949,
+        34.05126554894638
+      ]
+    },
+    "user_id": 50,
+    "user_name": "michael.john.kirk@gmail.com",
+    "working": true,
+    "filling_station": false,
+    "dog_bowl": false,
+    "flow": "good",
+    "url": "https://wetap.herokuapp.com/api/v1/water_fountains/35641.json",
+    "image_url": "http://wetap-production-images.s3.amazonaws.com/water_fountains/images/000/035/641/thumb/04b43740-ca4a-40b8-a502-b2ed5636e470.jpg?1421264652"
+  }
+]

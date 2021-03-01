@@ -1,0 +1,23 @@
+{
+  "name": "@wetap/webmap",
+  "version": "1.0.0",
+  "description": "WeTap drinking fountain locator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "local": "http-server ./ -p 1337"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wetap/pwa.git"
+  },
+  "author": "Aaron Hans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wetap/pwa/issues"
+  },
+  "homepage": "https://github.com/wetap/pwa#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
